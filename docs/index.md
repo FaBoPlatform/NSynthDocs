@@ -1,5 +1,7 @@
 # FaBo NSynth Docs
 
+![](./img/NSymth_img.jpg)
+
 ## FaBo NSynth Docsについて
 
 NSynthに関するドキュメントです。
